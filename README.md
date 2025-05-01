@@ -75,7 +75,7 @@ A full-stack To-Do application built with Vue.js and .NET Core, featuring a fact
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Krupa2071/ToDo_App
    cd todo-app/backend
    ```
 
